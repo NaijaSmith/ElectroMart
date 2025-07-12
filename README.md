@@ -27,6 +27,18 @@
 
 ## 📸 Screenshots
 
-> _Add your app screen previews here!_  
-You can add screenshots like this:
+## 📸 Screenshots
+
+### 🏠 Product List (LinearLayout)
+![Product List](electromart_screenshot_1_1.png)
+
+### 🧾 Product Detail (ConstraintLayout)
+![Product Detail](electromart_screenshot_2_1.png)
+
+### 🛍️ Grid Layout (RecyclerView)
+![Product Grid](electromart_screenshot_3_1.png)
+
+### 📲 View All Products Button
+![View All](electromart_screenshot_4_1.png)
+
 
