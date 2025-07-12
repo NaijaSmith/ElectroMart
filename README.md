@@ -25,7 +25,6 @@
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
