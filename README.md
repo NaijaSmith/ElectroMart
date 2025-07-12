@@ -35,9 +35,8 @@
 ![Product Detail](electromart_screenshot_2_1.png)
 
 ### 🛍️ Grid Layout (RecyclerView)
-![Product Grid](GridView.png)
-
-### 📲 View All Products Button
 ![View All](electromart_screenshot_4_1.png)
 
+### 📲 View All Products Button
+![Product Grid](GridView.png)
 
